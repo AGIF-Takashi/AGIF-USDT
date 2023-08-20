@@ -165,14 +165,6 @@ it may take longer for tests to complete.</p>
 </thead>
 <tbody>
 <tr>
-<td align="center">TrueUSD</td>
-<td align="center"><a href="https://etherscan.io/address/0x0000000000085d4780B73119b644AE5ecd22b376" rel="nofollow"><code>0x0000000000085d4780B73119b644AE5ecd22b376</code></a></td>
-</tr>
-<tr>
-<td align="center">Registry</td>
-<td align="center"><a href="https://etherscan.io/address/0x0000000000013949f288172bd7e36837bddc7211" rel="nofollow"><code>0x0000000000013949f288172bd7e36837bddc7211</code></a></td>
-</tr>
-<tr>
 <td align="center">Staked AGIF-smart-contracts</td>
 <td align="center"><a href="https://etherscan.io/address/0x7cbE4683dd069981e3f7c3e609a92C2c0aCE7FA2" rel="nofollow"><code>0x7cbE4683dd069981e3f7c3e609a92C2c0aCE7FA2</code></a></td>
 </tr>
