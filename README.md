@@ -169,52 +169,44 @@ it may take longer for tests to complete.</p>
 <td align="center"><a href="https://etherscan.io/address/0x0000000000085d4780B73119b644AE5ecd22b376" rel="nofollow"><code>0x0000000000085d4780B73119b644AE5ecd22b376</code></a></td>
 </tr>
 <tr>
-<td align="center">TrueCAD</td>
-<td align="center"><a href="https://etherscan.io/address/0x00000100F2A2bd000715001920eB70D229700085" rel="nofollow"><code>0x00000100F2A2bd000715001920eB70D229700085</code></a></td>
-</tr>
-<tr>
 <td align="center">Registry</td>
 <td align="center"><a href="https://etherscan.io/address/0x0000000000013949f288172bd7e36837bddc7211" rel="nofollow"><code>0x0000000000013949f288172bd7e36837bddc7211</code></a></td>
 </tr>
 <tr>
-<td align="center">AGIF-smart-contracts token</td>
-<td align="center"><a href="https://etherscan.io/address/0x4C19596f5aAfF459fA38B0f7eD92F11AE6543784" rel="nofollow"><code>0x4C19596f5aAfF459fA38B0f7eD92F11AE6543784</code></a></td>
-</tr>
-<tr>
 <td align="center">Staked AGIF-smart-contracts</td>
-<td align="center"><a href="https://etherscan.io/address/0x23696914Ca9737466D8553a2d619948f548Ee424" rel="nofollow"><code>0x23696914Ca9737466D8553a2d619948f548Ee424</code></a></td>
+<td align="center"><a href="https://etherscan.io/address/0x7cbE4683dd069981e3f7c3e609a92C2c0aCE7FA2" rel="nofollow"><code>0x7cbE4683dd069981e3f7c3e609a92C2c0aCE7FA2</code></a></td>
 </tr>
 <tr>
 <td align="center">AGIF-smart-contracts Pool</td>
-<td align="center"><a href="https://etherscan.io/address/0xa1e72267084192Db7387c8CC1328fadE470e4149" rel="nofollow"><code>0xa1e72267084192Db7387c8CC1328fadE470e4149</code></a></td>
+<td align="center"><a href="https://etherscan.io/address/0x7cbE4683dd069981e3f7c3e609a92C2c0aCE7FA2" rel="nofollow"><code>0x7cbE4683dd069981e3f7c3e609a92C2c0aCE7FA2</code></a></td>
 </tr>
 <tr>
 <td align="center">TrueLender2</td>
-<td align="center"><a href="https://etherscan.io/address/0xa606dd423dF7dFb65Efe14ab66f5fDEBf62FF583" rel="nofollow"><code>0xa606dd423dF7dFb65Efe14ab66f5fDEBf62FF583</code></a></td>
+<td align="center"><a href="https://etherscan.io/address/0x57040B65022c24676A41e646E6eCC47f4332a62D" rel="nofollow"><code>0x57040B65022c24676A41e646E6eCC47f4332a62D</code></a></td>
 </tr>
 <tr>
 <td align="center">TrueRatingAgency</td>
-<td align="center"><a href="https://etherscan.io/address/0x05461334340568075bE35438b221A3a0D261Fb6b" rel="nofollow"><code>0x05461334340568075bE35438b221A3a0D261Fb6b</code></a></td>
+<td align="center"><a href="https://etherscan.io/address/0x3bff495b11d918a736a42b53ab689900e6324cd2" rel="nofollow"><code>0x3bff495b11d918a736a42b53ab689900e6324cd2</code></a></td>
 </tr>
 <tr>
 <td align="center">LoanFactory2</td>
-<td align="center"><a href="https://etherscan.io/address/0x69d844fB5928d0e7Bc530cC6325A88e53d6685BC" rel="nofollow"><code>0x69d844fB5928d0e7Bc530cC6325A88e53d6685BC</code></a></td>
+<td align="center"><a href="https://etherscan.io/address/0xc7a117892855B1708fF8eF4Fd5eDEAc774dBE432" rel="nofollow"><code>0xc7a117892855B1708fF8eF4Fd5eDEAc774dBE432</code></a></td>
 </tr>
 <tr>
 <td align="center">AGIF-smart-contracts LP Farm</td>
-<td align="center"><a href="https://etherscan.io/address/0x8FD832757F58F71BAC53196270A4a55c8E1a29D9" rel="nofollow"><code>0x8FD832757F58F71BAC53196270A4a55c8E1a29D9</code></a></td>
+<td align="center"><a href="https://etherscan.io/address/0x233707e3e40f124b770Ee0adFA1Ed97cEe2Ba274" rel="nofollow"><code>0x233707e3e40f124b770Ee0adFA1Ed97cEe2Ba274</code></a></td>
 </tr>
 <tr>
 <td align="center">tfTUSD Distributor</td>
-<td align="center"><a href="https://etherscan.io/address/0xfB8d918428373f766B352564b70d1DcC1e3b6383" rel="nofollow"><code>0xfB8d918428373f766B352564b70d1DcC1e3b6383</code></a></td>
+<td align="center"><a href="https://etherscan.io/address/0x371Cec099923Bb375630189D58090386Ed0D3257" rel="nofollow"><code>0x371Cec099923Bb375630189D58090386Ed0D3257</code></a></td>
 </tr>
 <tr>
 <td align="center">Uni TUSD/tfTUSD Distributor</td>
-<td align="center"><a href="https://etherscan.io/address/0xCc527F4f8c76dB1EBA217d001cCc6f8bD9e0D86E" rel="nofollow"><code>0xCc527F4f8c76dB1EBA217d001cCc6f8bD9e0D86E</code></a></td>
+<td align="center"><a href="https://etherscan.io/address/0x533Dc98B9aC4Af8f6d280eD1C4Bc48d4b9Fd3370" rel="nofollow"><code>0x533Dc98B9aC4Af8f6d280eD1C4Bc48d4b9Fd3370</code></a></td>
 </tr>
 <tr>
 <td align="center">Uni ETH/TRU Distributor</td>
-<td align="center"><a href="https://etherscan.io/address/0x8EFF7d12118Fd599772D6448CDAd11D5fb2568e0" rel="nofollow"><code>0x8EFF7d12118Fd599772D6448CDAd11D5fb2568e0</code></a></td>
+<td align="center"><a href="https://etherscan.io/address/0xCAEDd48B7B4fC1960008f31046b0955A84f405FC" rel="nofollow"><code>0xCAEDd48B7B4fC1960008f31046b0955A84f405FC</code></a></td>
 </tr>
 <tr>
 <td align="center">RatingAgencyV2Distributor</td>
