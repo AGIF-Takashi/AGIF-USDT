@@ -205,14 +205,6 @@ it may take longer for tests to complete.</p>
 <td align="center"><a href="https://etherscan.io/address/0x8FD832757F58F71BAC53196270A4a55c8E1a29D9" rel="nofollow"><code>0x8FD832757F58F71BAC53196270A4a55c8E1a29D9</code></a></td>
 </tr>
 <tr>
-<td align="center">Uniswap TUSD/TFI-LP Farm</td>
-<td align="center"><a href="https://etherscan.io/address/0xf8F14Fbb93fa0cEFe35Acf7e004fD4Ef92d8315a" rel="nofollow"><code>0xf8F14Fbb93fa0cEFe35Acf7e004fD4Ef92d8315a</code></a></td>
-</tr>
-<tr>
-<td align="center">Uniswap ETH/TRU Farm</td>
-<td align="center"><a href="https://etherscan.io/address/0xED45Cf4895C110f464cE857eBE5f270949eC2ff4" rel="nofollow"><code>0xED45Cf4895C110f464cE857eBE5f270949eC2ff4</code></a></td>
-</tr>
-<tr>
 <td align="center">tfTUSD Distributor</td>
 <td align="center"><a href="https://etherscan.io/address/0xfB8d918428373f766B352564b70d1DcC1e3b6383" rel="nofollow"><code>0xfB8d918428373f766B352564b70d1DcC1e3b6383</code></a></td>
 </tr>
