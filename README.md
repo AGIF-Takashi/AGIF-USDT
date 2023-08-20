@@ -169,20 +169,8 @@ it may take longer for tests to complete.</p>
 <td align="center"><a href="https://etherscan.io/address/0x0000000000085d4780B73119b644AE5ecd22b376" rel="nofollow"><code>0x0000000000085d4780B73119b644AE5ecd22b376</code></a></td>
 </tr>
 <tr>
-<td align="center">TrueGBP</td>
-<td align="center"><a href="https://etherscan.io/address/0x00000000441378008EA67F4284A57932B1c000a5" rel="nofollow"><code>0x00000000441378008EA67F4284A57932B1c000a5</code></a></td>
-</tr>
-<tr>
-<td align="center">TrueAUD</td>
-<td align="center"><a href="https://etherscan.io/address/0x00006100f7090010005f1bd7ae6122c3c2cf0090" rel="nofollow"><code>0x00006100f7090010005f1bd7ae6122c3c2cf0090</code></a></td>
-</tr>
-<tr>
 <td align="center">TrueCAD</td>
 <td align="center"><a href="https://etherscan.io/address/0x00000100F2A2bd000715001920eB70D229700085" rel="nofollow"><code>0x00000100F2A2bd000715001920eB70D229700085</code></a></td>
-</tr>
-<tr>
-<td align="center">TrueHKD</td>
-<td align="center"><a href="https://etherscan.io/address/0x0000852600CEB001E08e00bC008be620d60031F2" rel="nofollow"><code>0x0000852600CEB001E08e00bC008be620d60031F2</code></a></td>
 </tr>
 <tr>
 <td align="center">Registry</td>
